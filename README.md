@@ -1,5 +1,5 @@
 # Portfolio Help
-이 문서는 김도영의 Portfolio 파일들의 구조를 설명하고 있습니다.
+이 문서는 Totorody의 Portfolio 파일들의 구조를 설명하고 있습니다.
 
 ## How to READ?
 ### Simple Version
